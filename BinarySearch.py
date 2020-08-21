@@ -1,5 +1,9 @@
 '''
 Binary Search Algorithm
+eg-
+arr = [2,3,4,5,6,7]
+x= 4
+output = 2
 '''
 def binarySearch(arr,x):
     mid = (len(arr))/2
