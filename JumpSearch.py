@@ -17,8 +17,7 @@ def jumpSearch( arr , x , n ):
     if(arr[int(prev)] == x): 
         return prev 
     return -1
-arr = [ 0, 1, 1, 2, 3, 5, 8, 13, 21, 
-    34, 55, 89, 144, 233, 377, 610 ] 
+arr = [ 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610 ] 
 x = 55
 n = len(arr) 
 index = jumpSearch(arr, x, n) 
