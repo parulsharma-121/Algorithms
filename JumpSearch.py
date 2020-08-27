@@ -1,5 +1,5 @@
 '''
-Jump Search
+Jump Search.
 '''
 import math 
 def jumpSearch( arr , x , n ): 
