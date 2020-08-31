@@ -2,3 +2,4 @@
 1)LinearSearch
 2)BinarySearch
 3)JumpSearch
+4)InsertionSort
